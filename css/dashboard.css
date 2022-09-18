@@ -1,0 +1,25 @@
+.space-y-320 > *:not(:first-child) {
+  margin-top: 20rem;
+}
+.page {
+  padding: 3.56rem 1.75rem 27.5rem;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.section_1 {
+  background-color: #575dfb;
+  border-radius: 50%;
+  width: 2.38rem;
+  height: 2.38rem;
+}
+.text {
+  margin-left: 2.66rem;
+  color: #000000;
+  font-size: 2.72rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 2.56rem;
+}

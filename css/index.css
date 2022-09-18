@@ -1,0 +1,99 @@
+.page {
+  padding: 16.13rem 2.16rem 16rem;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.space-y-24 > *:not(:first-child) {
+  margin-top: 1.5rem;
+}
+.space-y-9 > *:not(:first-child) {
+  margin-top: 0.56rem;
+}
+.text {
+  color: #000000;
+  font-size: 1.5rem;
+  font-family: Inter;
+  line-height: 1.41rem;
+}
+.text_1 {
+  margin-left: 0.094rem;
+  color: #575dfb;
+  font-size: 2.5rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 2.38rem;
+}
+.text_2 {
+  align-self: flex-start;
+  color: #000000;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 0.94rem;
+}
+.text_3 {
+  margin-left: 0.094rem;
+  margin-top: 4.44rem;
+  align-self: flex-start;
+  color: #000000;
+  font-size: 1.09rem;
+  font-family: Inter;
+  line-height: 1rem;
+}
+.space-y-10 > *:not(:first-child) {
+  margin-top: 0.63rem;
+}
+.list {
+  margin-top: 1.44rem;
+}
+.list-item {
+  margin-right: 0.094rem;
+  padding: 0.81rem 0 1rem;
+  border-radius: 1rem;
+  border: solid 0.094rem #000000;
+}
+.image {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.text_4 {
+  margin: 0.31rem 0 0.25rem 0.47rem;
+  color: #1c1c1c;
+  font-size: 1rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 0.97rem;
+}
+.space-x-10 > *:not(:first-child) {
+  margin-left: 0.63rem;
+}
+.section_2 {
+  padding: 1rem 0 1.13rem;
+}
+.image_2 {
+  width: 1.19rem;
+  height: 1.19rem;
+}
+.text_6 {
+  margin: initial;
+  margin-top: 0.19rem;
+}
+.group_2 {
+  margin-top: 1.69rem;
+}
+.text_7 {
+  color: #000000;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 0.94rem;
+}
+.text_8 {
+  color: #575dfb;
+  font-size: 1rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 0.94rem;
+  text-decoration: underline;
+}

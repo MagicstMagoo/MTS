@@ -1,0 +1,71 @@
+.page {
+  padding: 7.94rem 2.16rem 30.38rem;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.text {
+  align-self: flex-start;
+  color: #575dfb;
+  font-size: 2rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.91rem;
+}
+.text_1 {
+  margin-top: 1.78rem;
+  align-self: flex-start;
+  color: #000000;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 0.94rem;
+}
+.space-y-9 > *:not(:first-child) {
+  margin-top: 0.56rem;
+}
+.group {
+  margin-top: 2.75rem;
+}
+.text_2 {
+  align-self: flex-start;
+  color: #000000;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 0.94rem;
+}
+.space-x-15 > *:not(:first-child) {
+  margin-left: 0.94rem;
+}
+.section_1 {
+  margin-right: 0.094rem;
+  padding: 1rem 1.13rem 1.09rem;
+  border-radius: 1rem;
+  border: solid 0.094rem #575dfb;
+}
+.image {
+  width: 1.19rem;
+  height: 1.19rem;
+}
+.text_3 {
+  margin-top: 0.16rem;
+  color: #c8c8c8;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 1.06rem;
+}
+.button {
+  margin-right: 0.094rem;
+  margin-top: 1.75rem;
+  padding: 1.31rem 0 1.25rem;
+  background-color: #575dfb;
+  border-radius: 1rem;
+}
+.text_4 {
+  color: #ffffff;
+  font-size: 1rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 0.94rem;
+}

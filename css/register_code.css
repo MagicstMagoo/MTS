@@ -1,0 +1,66 @@
+.space-y-38 > *:not(:first-child) {
+  margin-top: 2.38rem;
+}
+.page {
+  padding: 7rem 2.16rem 30.56rem;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.space-y-18 > *:not(:first-child) {
+  margin-top: 1.13rem;
+}
+.group {
+  align-self: flex-start;
+  width: 17.75rem;
+}
+.text {
+  align-self: flex-start;
+  color: #575dfb;
+  font-size: 2rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.91rem;
+}
+.text_1 {
+  color: #000000;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 1.38rem;
+}
+.text_2 {
+  align-self: flex-start;
+  color: #000000;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 0.94rem;
+}
+.button {
+  margin-right: 0.094rem;
+  margin-top: 0.53rem;
+  padding: 1.06rem 0 1.34rem;
+  border-radius: 1rem;
+  border: solid 0.094rem #575dfb;
+}
+.text_3 {
+  color: #c8c8c8;
+  font-size: 1rem;
+  font-family: Inter;
+  line-height: 0.91rem;
+}
+.button_1 {
+  margin-right: 0.094rem;
+  margin-top: 1.75rem;
+  padding: 1.31rem 0 1.25rem;
+  background-color: #575dfb;
+  border-radius: 1rem;
+}
+.text_4 {
+  color: #ffffff;
+  font-size: 1rem;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 0.97rem;
+}
