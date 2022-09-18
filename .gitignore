@@ -4,3 +4,7 @@
 node_modules
 dist
 .cache
+/.gitattributes
+/.editorconfig
+/.idea/.gitignore
+site.webmanifest
