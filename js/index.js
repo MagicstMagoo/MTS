@@ -1,7 +1,7 @@
 function onClickText_7() {
-  location.href = './register.html';
+  location.href = './pages/register.html';
 }
 
 function onClickText_2() {
-  location.href = './login.html';
+  location.href = './pages/login.html';
 }

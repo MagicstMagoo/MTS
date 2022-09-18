@@ -1,3 +1,3 @@
 function onClickView_3() {
-  location.href = './reset.html';
+  location.href = './pages/reset.html';
 }

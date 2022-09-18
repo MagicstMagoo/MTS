@@ -1,7 +1,7 @@
 function onClickView_4() {
-  location.href = './register_code.html';
+  location.href = './pages/register_code.html';
 }
 
 function onClickText_5() {
-  location.href = './dashboard.html';
+  location.href = './pages/dashboard.html';
 }
