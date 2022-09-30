@@ -1,3 +1,3 @@
-function onClickView_1() {
-  location.href = './pages/forget_code.html';
+function onClickNext() {
+  location.href = './forget_code.html';
 }

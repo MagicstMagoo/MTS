@@ -1,3 +1,3 @@
-function onClickView_3() {
+function onClickRegister() {
   location.href = './login.html';
 }

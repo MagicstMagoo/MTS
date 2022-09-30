@@ -1,3 +1,4 @@
-function onClickView() {
+//
+function onClickBack() {
   location.href = '../index.html';
 }
