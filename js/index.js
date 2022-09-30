@@ -1,7 +1,8 @@
-function onClickText_7() {
+function onClickRegister() {
   location.href = './pages/register.html';
 }
 
-function onClickText_2() {
+
+function onClickLogin() {
   location.href = './pages/login.html';
 }
