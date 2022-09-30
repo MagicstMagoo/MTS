@@ -1,4 +1,4 @@
-# 川息
+# 川息 (目前项目用于我个人氵活跃)
 **中文** | [English](./doc/README_EN.md)
 ### 一个通过`rcon`在`Minecraft`服务端与其他玩家聊天的工具
 
