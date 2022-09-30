@@ -1,11 +1,17 @@
-function onClickText_1() {
+// 跳转至忘记密码
+// click this to reset the password
+function onClickForgetPassword() {
   location.href = './forget.html';
 }
 
-function onClickText_2() {
+// 跳转至主页/仪表盘
+// link to dashboard
+function onClickToDashboard() {
   location.href = './dashboard.html';
 }
 
-function onClickText_3() {
+// 注册账户
+// register a new account.
+function onClickRegister() {
   location.href = './register.html';
 }
