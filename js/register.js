@@ -1,5 +1,5 @@
 function onClickView_4() {
-  location.href = './pages/register_code.html';
+  location.href = './register_code.html';
 }
 
 function onClickText_5() {
