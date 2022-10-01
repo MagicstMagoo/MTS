@@ -1,13 +1,15 @@
 .page {
-  padding: 7.63rem 2.16rem 10.69rem;
+  padding: 7.63rem 2.13rem 10.75rem;
   background-color: #ffffff;
   width: 100%;
   overflow-y: auto;
   overflow-x: hidden;
   height: 100%;
 }
-.space-y-11 > *:not(:first-child) {
-  margin-top: 0.69rem;
+/* TODO:制作为.less */
+
+.space-y-12 > *:not(:first-child) {
+  margin-top: 0.75rem;
 }
 .text {
   color: #575dfb;
@@ -16,163 +18,132 @@
   font-weight: 700;
   line-height: 1.91rem;
 }
-.group_1 {
+.group {
   line-height: 1.19rem;
 }
-.text_1 {
-  color: #000000;
+.font_1 {
   font-size: 1.25rem;
   font-family: Inter;
-  line-height: 1.16rem;
+  line-height: 1.19rem;
+  color: #000000;
 }
 .text_2 {
-  color: #575dfb;
+  line-height: 1.16rem;
+}
+.font_2 {
   font-size: 1.25rem;
   font-family: Inter;
-  font-weight: 700;
   line-height: 1.19rem;
+  font-weight: 700;
+  color: #575dfb;
 }
 .text_3 {
-  color: #000000;
-  font-size: 1.25rem;
-  font-family: Inter;
   line-height: 1.16rem;
 }
 .text_4 {
-  color: #575dfb;
-  font-size: 1.25rem;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 1.19rem;
-}
-.text_5 {
-  color: #000000;
-  font-size: 1.25rem;
-  font-family: Inter;
   line-height: 1.16rem;
 }
-.space-y-9 > *:not(:first-child) {
-  margin-top: 0.56rem;
-}
 .group_2 {
-  margin-top: 3.69rem;
+  margin-top: 3.63rem;
 }
-.text_6 {
-  align-self: flex-start;
-  color: #000000;
+.font_3 {
   font-size: 1rem;
   font-family: Inter;
   line-height: 0.94rem;
+  color: #000000;
+}
+.text_5 {
+  align-self: flex-start;
+}
+.section {
+  margin-right: 0.13rem;
+  padding: 1rem 1.13rem 1.13rem;
+  border-radius: 1rem;
+  border: solid 0.094rem #575dfb;
 }
 .space-x-15 > *:not(:first-child) {
   margin-left: 0.94rem;
-}
-.section_1 {
-  margin-right: 0.094rem;
-  padding: 1rem 1.13rem 1.09rem;
-  border-radius: 1rem;
-  border: solid 0.094rem #575dfb;
 }
 .image {
   width: 1.19rem;
   height: 1.19rem;
 }
-.text_7 {
-  margin-top: 0.16rem;
-  color: #c8c8c8;
+.font_4 {
   font-size: 1rem;
   font-family: Inter;
   line-height: 1.06rem;
+  color: #c8c8c8;
+}
+.text_6 {
+  margin-top: 0.13rem;
 }
 .group_3 {
-  margin-top: 2.06rem;
+  margin-top: 2rem;
 }
-.text_8 {
+.text_7 {
   align-self: flex-start;
-  color: #000000;
-  font-size: 1rem;
-  font-family: Inter;
-  line-height: 0.94rem;
-}
-.space-x-17 > *:not(:first-child) {
-  margin-left: 1.06rem;
 }
 .section_2 {
-  margin-right: 0.094rem;
-  padding: 0.94rem 1.25rem 0;
-  border-radius: 1rem;
-  border: solid 0.094rem #575dfb;
-}
-.image_1 {
-  margin-top: 0.063rem;
-  flex-shrink: 0;
-  width: 1rem;
-  height: 1.13rem;
-}
-.text_9 {
-  margin-right: 7.94rem;
-  color: #c8c8c8;
-  font-size: 1rem;
-  font-family: Inter;
-  line-height: 1.5rem;
-  width: 8.81rem;
-}
-.group_4 {
-  margin-top: 2.06rem;
-}
-.text_10 {
-  align-self: flex-start;
-  color: #000000;
-  font-size: 1rem;
-  font-family: Inter;
-  line-height: 0.94rem;
-}
-.space-x-16 > *:not(:first-child) {
-  margin-left: 1rem;
-}
-.section_3 {
-  margin-right: 0.094rem;
-  padding: 1rem 1.19rem;
+  margin-right: 0.13rem;
+  padding: 1rem 1.25rem 1.13rem;
   border-radius: 1rem;
   border: solid 0.094rem #575dfb;
 }
 .image_2 {
+  width: 1rem;
+  height: 1.13rem;
+}
+.text_8 {
+  margin-top: 0.13rem;
+}
+.group_4 {
+  margin-top: 2rem;
+}
+.space-y-10 > *:not(:first-child) {
+  margin-top: 0.63rem;
+}
+.text_9 {
+  align-self: flex-start;
+}
+.section_3 {
+  margin-right: 0.13rem;
+  padding: 1rem 1.19rem;
+  border-radius: 1rem;
+  border: solid 0.094rem #575dfb;
+}
+.space-x-16 > *:not(:first-child) {
+  margin-left: 1rem;
+}
+.image_3 {
   width: 1.13rem;
   height: 1.31rem;
 }
-.image_3 {
+.image_4 {
   align-self: center;
   width: 3.81rem;
   height: 0.38rem;
 }
 .button {
-  margin-right: 0.094rem;
+  margin-right: 0.13rem;
   margin-top: 3.63rem;
-  padding: 1.31rem 0 1.25rem;
+  padding: 1.25rem 0;
   background-color: #575dfb;
   border-radius: 1rem;
 }
-.text_11 {
-  color: #ffffff;
+.font_5 {
   font-size: 1rem;
   font-family: Inter;
+  line-height: 0.94rem;
   font-weight: 700;
+}
+.text_10 {
+  color: #ffffff;
   line-height: 0.97rem;
 }
 .group_5 {
-  margin-top: 2.81rem;
+  margin-top: 2.75rem;
 }
-.text_12 {
-  color: #000000;
-  font-size: 1rem;
-  font-family: Inter;
-  line-height: 0.94rem;
-}
-.text_13 {
+.text_11 {
   color: #575dfb;
-  font-size: 1rem;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 0.94rem;
   text-decoration: underline;
 }

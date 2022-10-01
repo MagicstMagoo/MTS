@@ -1,4 +1,4 @@
-.space-y-56 > *:not(:first-child) {
+.space-y-56 > *:not(:first-child) {/* TODO:制作为.less */
   margin-top: 3.5rem;
 }
 .page {

@@ -9,6 +9,7 @@
   overflow-x: hidden;
   height: 100%;
 }
+/* TODO:制作为.less */
 .image {
   margin-left: 1.75rem;
   align-self: flex-start;
