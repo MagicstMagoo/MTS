@@ -1,7 +1,7 @@
 function onClickRegister() {
   location.href = './register_code.html';
 }
-
+// TODO:Fix page link
 function onClickLogin() {
-  location.href = './pages/dashboard.html';
+  location.href = './login.html';
 }
